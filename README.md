@@ -1,16 +1,21 @@
 
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 
 <h1 align="center">Hi 👋, I'm Galib Gaurav</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-<h3 align="justify">Let me introduce myself first. I am a simple and normal human like you, and who belive in the quotation "The best time to plant a tree 🌳 was 20 years ago. The second best time is now". And, this single line I think speaks volumes regarding me.
-Like many others, I come from very humble background and I had and I will have my share of struggle in life. After all that is what is, life is all about and remember our time on this planet is limited so be yourself, contribute to nature make this planet 🌍 more greener, help society, support your family 👨‍👩‍👧‍👦. All this will not be easy without going through mental and physical pain, fear and of course insecurities and uncertainities but there is no chice left, ultimately you have a promise, a commitment and many wishes to fullfill. Belive me at the end you will have a laugh and staisfied smile on you face and in your heart. 
-
-I, assume that I made you a bit emotional that's fine grap a coffee or tea, let emotion pass thorugh. And I forgot to say that I am a father of two beautiful daughters and son of very caring mother, a engineer by choice who has just started his journey.
-
-</h3>
-- 🔭 I’m currently working on creating [a full stack web development training course](https://github.com/webology360/FullStackWebApplication) , this course is based on my personal experience and gathered insights from many books which I do refered. This course will help someone with 3 to 10 years of experince in the field of IT and mostly are into web development. Well, it is extremely difficult to create courses by considering many programming languages and technologies because there are to many options available in the market for example for backend devlelopment one shall consider c# based ASP.NET, JAVA, Python or Node.js. Whatever languages and technology you choose the funtional requirements, non-funtional requirements, design priciples-patterns, overall challenges and limitations remains the same. So choose whatever language and technology you think is right for you and which aligns with your long term goals.
-
+<div>
+    <div>
+   <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>-->
+    </div>
+    <div>
+    <p align="justify">
+      Let me introduce myself first. I am a simple and normal human like you, and who belive in the quotation "The best time to plant a tree 🌳 was 20 years ago. The second       best time is now". And, this single line I think speaks volumes regarding me.
+      Like many others, I come from very humble background and I had and I will have my share of struggle in life. After all that is what is, life is all about and remember        our time on this planet is limited so be yourself, contribute to nature make this planet 🌍 more greener, help society, support your family 👨‍👩‍👧‍👦. All this will not be         easy without going through mental and physical pain, fear and of course insecurities and uncertainities but there is no chice left, ultimately you have a promise, a          commitment and many wishes to fullfill. Belive me at the end you will have a laugh and staisfied smile on you face and in your heart. 
+      I, assume that I made you a bit emotional that's fine grap a coffee or tea, let emotion pass thorugh. And I forgot to say that I am a father of two beautiful daughters       and son of very caring mother, a engineer by choice who has just started his journey.
+    </p>
+    </div>
+</div>
+<p>🔭 I’m currently working on creating [a full stack web development training course](https://github.com/webology360/FullStackWebApplication) , this course is based on my personal experience and gathered insights from many books which I do refered. This course will help someone with 3 to 10 years of experince in the field of IT and mostly are into web development. Well, it is extremely difficult to create courses by considering many programming languages and technologies because there are to many options available in the market for example for backend devlelopment one shall consider c# based ASP.NET, JAVA, Python or Node.js. Whatever languages and technology you choose the funtional requirements, non-funtional requirements, design priciples-patterns, overall challenges and limitations remains the same. So choose whatever language and technology you think is right for you and which aligns with your long term goals.
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gaurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav" height="30" width="40" /></a>
